@@ -59,7 +59,7 @@ files = {
     'caller_id': (None, caller_id),
     'submit': (None, "submit"),
 }
-response = requests.post('https://call.zspoof.com', files=files)
+response = requests.post('https://call.zspoof.io', files=files)
 hprint(C + ' Changing Caller ID of  ' + username + ' ...')
 print("")
 print(G + " " + response.text + "Callerid Changed")
