@@ -1,7 +1,7 @@
 # Call Spoofer
 
 <p align="center">
-<img src="https://call.zspoof.com/icon.png" height="60"><br>
+<img src="https://call.zspoof.io/icon.png" height="60"><br>
 Call Spoofer Tool for Spoofing Voips & Calls with Any Caller ID you want.<br>
                                       
 </p>
@@ -16,7 +16,7 @@ Call Spoofer Tool for Spoofing Voips & Calls with Any Caller ID you want.<br>
 <p>Basically, The calls will be routed to our private asterisk server then our servers will pass your call using voip protocol to victim's telecom provider bypassing the callerid.
 </p>
 
-<p align='center'><img src='https://zspoof.com/images/features-2.png' height='400'></p>
+<p align='center'><img src='https://zspoof.io/images/features-2.png' height='400'></p>
 
 
 
